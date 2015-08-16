@@ -13,3 +13,6 @@
 [submodule "cloudify-plugin-template"]
 	path = cloudify-plugin-template
 	url = https://github.com/kemiz/cloudify-plugin-template.git
+[submodule "dproxy-plugin-cfy3"]
+	path = dproxy-plugin-cfy3
+	url = https://github.com/kemiz/dproxy-plugin-cfy3.git
