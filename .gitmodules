@@ -16,3 +16,6 @@
 [submodule "dproxy-plugin-cfy3"]
 	path = dproxy-plugin-cfy3
 	url = https://github.com/kemiz/dproxy-plugin-cfy3.git
+[submodule "cloudify-package-installer-plugin"]
+	path = cloudify-package-installer-plugin
+	url = https://github.com/kemiz/cloudify-package-installer-plugin
