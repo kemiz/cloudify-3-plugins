@@ -1,3 +1,24 @@
+[submodule "cloudify-logstash-plugin"]
+	path = cloudify-logstash-plugin
+	url = https://github.com/kemiz/cloudify-logstash-plugin.git
+[submodule "salt-plugin-cfy3"]
+	path = salt-plugin-cfy3
+	url = https://github.com/kemiz/salt-plugin-cfy3.git
+[submodule "xap-plugin"]
+	path = xap-plugin
+	url = https://github.com/kemiz/xap-plugin.git
+[submodule "xap-config-plugin"]
+	path = xap-config-plugin
+	url = https://github.com/kemiz/xap-config-plugin.git
+[submodule "cloudify-plugin-template"]
+	path = cloudify-plugin-template
+	url = https://github.com/kemiz/cloudify-plugin-template.git
+[submodule "dproxy-plugin-cfy3"]
+	path = dproxy-plugin-cfy3
+	url = https://github.com/kemiz/dproxy-plugin-cfy3.git
+[submodule "cloudify-package-installer-plugin"]
+	path = cloudify-package-installer-plugin
+	url = https://github.com/kemiz/cloudify-package-installer-plugin
 [submodule "cloudify-elasticsearch-plugin"]
 	path = cloudify-elasticsearch-plugin
 	url = https://github.com/kemiz/cloudify-elasticsearch-plugin
