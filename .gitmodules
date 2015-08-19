@@ -1,0 +1,6 @@
+[submodule "cloudify-elasticsearch-plugin"]
+	path = cloudify-elasticsearch-plugin
+	url = https://github.com/kemiz/cloudify-elasticsearch-plugin
+[submodule "cloudify-package-installer-plugin"]
+	path = cloudify-package-installer-plugin
+	url = https://github.com/kemiz/cloudify-package-installer-plugin
